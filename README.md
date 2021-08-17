@@ -1,2 +1,2 @@
 # smallcase
-TBC
+This is an automation assignment given by SmallCase
